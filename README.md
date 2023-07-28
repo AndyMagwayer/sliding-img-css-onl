@@ -9,4 +9,4 @@ i really hope what it will usefull for u and u will get smth new for u
 
 this project shuld not to be copyright by someone else
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/AndyMagwayer/sliding-img-css-onl/blob/main/maxresdefault.jpg)
