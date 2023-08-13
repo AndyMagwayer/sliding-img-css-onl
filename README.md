@@ -7,6 +7,6 @@ i really hope what it will usefull for u and u will get smth new for u
 ![Image alt](https://github.com/AndyMagwayer/sliding-img-css-onl/blob/main/maxresdefault.jpg)
 
 
-this project shuld not to be copyright by someone else
+this project shuld not to be copyright by someone else, all issues and about question ask in my instagram page
 
 ![Image alt](https://github.com/AndyMagwayer/sliding-img-css-onl/blob/main/Pure-CSS-Flip-Card.gif)
